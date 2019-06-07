@@ -1,0 +1,5 @@
+Symbol		HuffCode
+a		11
+b		101
+d		100
+c		0
